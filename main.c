@@ -3,11 +3,18 @@
 
 
 
+
+
+
+
 int main() {
     print_menu();
       int verif;
-	int size_row, size_col;
-	
+  int size_col;
+int size_row;
+  int num_symbols;
+
+
 
   do{
     printf("Nombre de lignes superieur à 3  : \n");
@@ -40,7 +47,7 @@ int main() {
     
     
 
-    int score = play_game();
+    int score = play_game(size_row,size_col,num_symbols);
     printf("Votre score final: %d\n", score);
 
     return 0;
