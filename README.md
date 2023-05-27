@@ -5,7 +5,8 @@
  Dans CY- CRUSH, votre mission est simple : éliminer les fruits du plateau en formant des combinaisons de trois fruits ou plus.
  l'alignement de ces fruits peut être en horizontale, verticale et diagonale.
  Plus vous parvenez à réaliser de combinaisons, plus vous accumulez de points. 
- Vous finissez la partie lorsqu'il n'y a plus aucune combinaison possible.
+ Vous finissez la partie lorsque que l'utilisateur choisit de quitter le jeu.
+
  
  # Comment y jouer ?
  * indiquez votre pseudonyme.
