@@ -16,8 +16,11 @@
 
 # Lancement du jeu
 Afin d'utiliser le programme, veuillez ouvrir un terminal puis entrez dans le dossier <code>Candy_crush2/</code>.<br/>
-Exécuter la commande «code›make</code> pour compiler le projet puis lancez le avec la commande <code>./exec</code>
- 
+Exécuter la commande  <code>make</code>. pour compiler le projet puis lancez le avec la commande <code>./exec</code>
 
+# Auteur 
+DURAND DE GEVIGNEY Eliot <br/>
+EL KHLIFI Adam <br/>
+ATCHORI Roméo <br/>
 
  
