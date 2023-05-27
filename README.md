@@ -13,10 +13,10 @@
  * l'heure à laquelle vous jouez vous sera demandée.L'heure sera demandée en deux temps : indiqué dans un premier temps l'heure et ensuite indiquez les minutes. 
  * choisir les mensurations du plateau ainsi que son nombre de fruit.
  * entrez les coordonnées des deux symboles que vous voulez échanger.
+ * vous pourrez quittez la partie à tout moment.
 
 # Lancement du jeu
-Afin d'utiliser le programme, veuillez ouvrir un terminal puis entrez dans le dossier <code>Candy_crush2/</code>.<br/>   
-Exécuter la commande  <code>make</code>. pour compiler le projet puis lancez le avec la commande <code>./exec</code>
+Afin d'utiliser le programme, il faut utiliser linux. veuillez ouvrir un terminal puis entrez dans le dossier que vous aurez préalablement téléchargé. Exécuter la commande  <code>make</code> pour compiler le projet puis lancez le avec la commande <code>./exec</code>
 
 # Auteur 
 DURAND DE GEVIGNEY Eliot <br/>
